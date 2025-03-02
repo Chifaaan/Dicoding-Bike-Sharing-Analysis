@@ -10,7 +10,7 @@ st.set_page_config(
     page_title="Bike ",
     layout="wide",
     initial_sidebar_state="expanded",
-    page_icon="bicycle.png")
+    page_icon="images/bicycle.png")
 
 #Grouping kebutuhan visualisasi
 df = pd.read_csv('main_data.csv')
