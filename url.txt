@@ -1,1 +1,1 @@
-chifan-dicoding-bikesharing.streamlit.app
+chifan-dicoding-bike-sharing.streamlit.app
